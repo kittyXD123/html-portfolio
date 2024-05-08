@@ -11,10 +11,11 @@ body {
     padding: 20px;
 }
 .motivation-img{
-    float: right;
-    position: relative;
     height: 120px;
     width: 120px;
+    float: right;
+    position: relative;
+
 }
 
 h1 {
